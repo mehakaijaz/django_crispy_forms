@@ -1,1 +1,1 @@
-# django_crsipy_forms
+# django_crispy_forms
